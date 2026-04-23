@@ -1,0 +1,50 @@
+{
+    "criteria": [
+        {
+            "name": "Giá",
+            "weight": 0.6232558139534884
+        },
+        {
+            "name": "Khoảng cách",
+            "weight": 0.8534883720930233
+        },
+        {
+            "name": "Tiện nghi",
+            "weight": 0.2674418604651163
+        }
+    ],
+    "alternatives": [
+        {
+            "name": "Nhà nguyên căn",
+            "values": [
+                6.0,
+                8.0,
+                9.0
+            ]
+        },
+        {
+            "name": "Chung cư mini",
+            "values": [
+                7.0,
+                7.0,
+                8.0
+            ]
+        },
+        {
+            "name": "Kí túc xá",
+            "values": [
+                9.0,
+                9.0,
+                5.0
+            ]
+        },
+        {
+            "name": "Nhà riêng",
+            "values": [
+                9.0,
+                4.0,
+                8.0
+            ]
+        }
+    ]
+}
